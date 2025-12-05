@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Allow: /publiczny-folder/
+Sitemap: https://anderrred.github.io/sitemap.xml
